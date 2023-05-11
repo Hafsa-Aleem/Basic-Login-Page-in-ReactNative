@@ -15,7 +15,7 @@ return <View style={{justifyContent:"center",allignItems:"center",flex:1}}>
           uri:'https://img.freepik.com/free-vector/login-concept-illustration_114360-739.jpg?w=2000'
         }}
       />
-    <View/>
+    </View>
 
     <View style={styles.inputView}>
         <TextInput
